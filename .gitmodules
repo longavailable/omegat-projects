@@ -1,0 +1,3 @@
+[submodule "empty-omegat-project"]
+	path = empty-omegat-project
+	url = https://github.com/longavailable/empty-omegat-project
