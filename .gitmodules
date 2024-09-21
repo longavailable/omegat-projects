@@ -1,3 +1,6 @@
 [submodule "empty-omegat-project"]
 	path = empty-omegat-project
 	url = https://github.com/longavailable/empty-omegat-project
+[submodule "omegat-review-swam-202409"]
+	path = omegat-review-swam-202409
+	url = https://github.com/longavailable/omegat-review-swam-202409
